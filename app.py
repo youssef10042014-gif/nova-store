@@ -1,4 +1,3 @@
-
 from flask import Flask, redirect, url_for, session, request, render_template_string
 
 app = Flask(__name__)
@@ -131,6 +130,7 @@ a { color: #35d9ff; }
 PAGE = """
 <!DOCTYPE html>
 <html>
+<head>
 <meta name="google-site-verification" content="w_S-vsUzbSZlFxl5p7ebnZrJWkjhpLvsnHALC2rCxos" />
 <title>NOVA STORE</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -303,4 +303,3 @@ def contact():
 
 if __name__ == "__main__":
     app.run(debug=True)
-
