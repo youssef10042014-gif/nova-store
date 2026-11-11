@@ -15,7 +15,7 @@ products = [
     {"id": 7, "name": "NOVA Black Hoodie", "price": 89, "category": "Fashion", "emoji": "🧥", "stock": False},
     {"id": 8, "name": "NOVA Street T-Shirt", "price": 49, "category": "Fashion", "emoji": "👕", "stock": False},
     {"id": 9, "name": "NOVA Sneakers", "price": 159, "category": "Fashion", "emoji": "👟", "stock": False},
-    {"id": 10, "name": "NOVA Cap", "price": 39, "category": "Fashion", "emoji": "🧢", "stock": False},
+    {"id": 10, "name": "NOVA Cap", "price": 25, "category": "Fashion", "emoji": "🧢", "stock": False},
 ]
 
 STYLE = """
